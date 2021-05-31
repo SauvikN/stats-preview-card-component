@@ -84,7 +84,7 @@ main {
   height: 35vh;
   background-position: center;
   background-size: cover;
-  background-color: #ab5cdb;
+  background-color: hsl(277, 64%, 61%);
   background-blend-mode: multiply;
   border-radius: 10px 10px 0 0;
   order: 1;
