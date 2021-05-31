@@ -29,8 +29,8 @@ https://drive.google.com/drive/folders/1Q4sg5ln4aFnccacRpZJDI-sHNfK3jDZQ?usp=sha
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/SauvikN/stats-preview-card-component
+- Live Site URL: N/A
 
 ## My process
 I first added the HTML tags to give structure to the website and so that i can properly use the CSS box model.
