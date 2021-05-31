@@ -72,7 +72,6 @@ I would like to further refine my flexbox skills.
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image) - Helped me with the background property in CSS.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 - Frontend Mentor - [@SauvikN](https://www.frontendmentor.io/profile/SauvikN)
